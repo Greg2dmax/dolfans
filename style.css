@@ -185,7 +185,7 @@
 
 .header {
     width: 50%;
-    background: linear-gradient(to top, rgba(0,0,0,.4), rgba(0,0,0,.2)), url(images/bg2.jpg) center no-repeat;
+    background: linear-gradient(to top, rgba(0,0,0,.5), rgba(0,0,0,.5)), url(images/bg2.jpg) center no-repeat;
     background-size: cover;
     box-shadow: -10px 0 30px rgba(0,0,0,.3);
     position: relative;
@@ -199,7 +199,7 @@
     text-align: center;
     color: #fff;
     font-family: 'Oswald', sans-serif;
-    font-size: 40px;
+    font-size: 60px;
     text-transform: uppercase;
     letter-spacing: 1px;
 }
